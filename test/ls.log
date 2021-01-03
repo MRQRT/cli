@@ -1,0 +1,21 @@
+index.html
+index.js
+index.sh
+js.sh
+ls.log
+nano.save
+nessbry
+touch.html
+yes
+total 40
+drwxr-xr-x  11 jiaweiguo  staff   352  1  2 14:34 .
+drwxr-xr-x  25 jiaweiguo  staff   800 12 30 12:42 ..
+-rw-r--r--@  1 jiaweiguo  staff     0  7 10 16:54 index.html
+-rw-r--r--@  1 jiaweiguo  staff    34  7 10 17:37 index.js
+-rw-r--r--   1 jiaweiguo  staff  1521  1  2 01:42 index.sh
+-rw-r--r--@  1 jiaweiguo  staff     0  7 10 17:08 js.sh
+-rw-r--r--   1 jiaweiguo  staff    75  1  2 14:36 ls.log
+-rw-------   1 jiaweiguo  staff     1  1  2 14:02 nano.save
+drwxr-xr-x   2 jiaweiguo  staff    64  7 10 16:54 nessbry
+drwxr-xr-x   2 jiaweiguo  staff    64  7 10 16:54 touch.html
+-rw-r--r--   1 jiaweiguo  staff     8  1  2 14:14 yes
